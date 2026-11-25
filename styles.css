@@ -128,6 +128,7 @@ p {
 h1 {
     margin-bottom: 9px;
     text-align: center;
+    justify-content: center;
     display: flex;
     font: 600 clamp(28px, 7vw, 39px)/1.12 "Playfair Display", serif;
     color: #492532
